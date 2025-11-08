@@ -2,7 +2,7 @@
   "name": "kupipodariday-backend",
   "version": "0.0.1",
   "description": "Backend-сервиса вишлистов КупиПодариДай",
-  "author": "Mercuuury",
+  "author": "fireok",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {

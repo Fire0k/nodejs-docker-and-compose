@@ -15,7 +15,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/Mercuuury/kupipodariday-backend.git
+git clone https://github.com/Fire0k/nodejs-docker-and-compose.git
 cd kupidopodaridai-backend
 ```
 
@@ -106,4 +106,4 @@ npm run start:dev
 
 ## 🔗 Ссылка на репозиторий
 
-https://github.com/Mercuuury/kupipodariday-backend
+https://github.com/Fire0k/nodejs-docker-and-compose.git
